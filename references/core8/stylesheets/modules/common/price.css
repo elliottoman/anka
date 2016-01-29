@@ -1,0 +1,6 @@
+.mz-price {
+  display: inline-block;
+}
+.mz-price + .mz-price {
+  margin-left: 2px;
+}

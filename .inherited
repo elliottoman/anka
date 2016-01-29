@@ -1,0 +1,8 @@
+.gitattributes
+README.md
+RELEASE_NOTES.md
+bower.json
+build.js
+core-thumb.png
+npm-shrinkwrap.json
+theme-ui.json

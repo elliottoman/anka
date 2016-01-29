@@ -1,0 +1,6 @@
+.mz-pricestack {
+  position: relative;
+}
+.mz-pricestack .mz-pricestack-price-lower::after {
+  content: "\2014";
+}

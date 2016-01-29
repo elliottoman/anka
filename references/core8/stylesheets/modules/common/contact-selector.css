@@ -1,0 +1,9 @@
+.mz-contactselector .mz-contactselector-contact {
+  display: table;
+  min-height: 150px;
+}
+.mz-contactselector .mz-contactselector-contact > * {
+  display: table-cell;
+  vertical-align: middle;
+  padding: 4px;
+}

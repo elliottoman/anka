@@ -1,0 +1,10 @@
+{
+  "about": {
+    "name": "Anka",
+    "extends": "core8",
+    "isDesktop": true,
+    "isMobile": true,
+    "isTablet": true
+  },
+  "widgets": []
+}
